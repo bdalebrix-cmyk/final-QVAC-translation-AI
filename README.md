@@ -36,7 +36,7 @@ Inference is performed locally through QVAC. No cloud AI API or API key is used.
 - Original code, not a fork or near-copy of QVAC examples
 
 ## Demo
-Show the app translating English text to Spanish and capture the successful local inference result.
+app translating English text to Spanish and capture the successful local inference result.
 
 ## Runtime note
 If a Codespace/container reports a native QVAC worker `SIGBUS`, that is a runtime compatibility problem; use a QVAC-supported machine/runtime for the final demo.
